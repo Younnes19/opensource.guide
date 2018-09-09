@@ -385,7 +385,7 @@ You've found a project you like, and you're ready to make a contribution. Finall
 
 ### Communicating effectively
 
-Whether you're a one-time contributor or trying to join a community, working with others is one of the most important skills you'll develop in open source.
+Whether you're a one-time contributor, or trying to join a community, working with others is one of the most important skills you'll develop in open source.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/shubheksha?s=180" class="pquote-avatar" alt="avatar">
@@ -395,9 +395,9 @@ Whether you're a one-time contributor or trying to join a community, working wit
   </p>
 </aside>
 
-Before you open an issue or pull request, or ask a question in chat, keep these points in mind to help your ideas come across effectively.
+Before you open an issue, pull a request, or ask a question in chat, keep these points in mind to help your ideas come across effectively.
 
-**Give context.** Help others get quickly up to speed. If you're running into an error, explain what you're trying to do and how to reproduce it. If you're suggesting a new idea, explain why you think it'd be useful to the project (not just to you!).
+**Give context.** Help others get up to speed quickly. If you're running into an error, explain what you're trying to do and how to reproduce it. If you're suggesting a new idea, explain why you think it'd be useful to the project (not just to you!).
 
 > 😇 _"X doesn't happen when I do Y"_
 >
